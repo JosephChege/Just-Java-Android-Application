@@ -1,0 +1,30 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--The name of this application-->
+    <string name="app_name">Just Java</string>
+
+    <string name="toppings_header">Toppings</string>
+    <string name="bread_crumbs">Bread Crumbs</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity_coffee_cups">Quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <!--Text on Toast CHAR LIMIT = 30-->
+    <string name="more_than_20_cups">More than 20 cups!? Heck, No!</string>
+    <string name="are_you_serious">Seriously??</string>
+    <string name="please_order">How many Cups, please?</string>
+    <string name="name_label">"Name: "</string>
+    <string name="add_bread_crumbs_label_summary">"Add bread crumbs? "</string>
+    <string name="agree">Yes</string>
+    <string name="disagree">Nope!</string>
+    <string name="whipped_cream_summary">"Add whipped cream? "</string>
+    <string name="add_chocolate_summary">"Add chocolate? "</string>
+    <string name="quantity_summary">"Quantity: "</string>
+    <string name="total_label_summary">"Total: KSh. "</string>
+    <string name="thank_you_summary">Thank you!</string>
+    <string name="order_summary_subject_email">"Order Summary for "</string>
+    <string name="order_coffee_text">Order</string>
+    <string name="name_enquiry_hint_text">Type Your Name Here</string>
+    <string name="summary_hint_text">(Summary Shown Here)</string>
+</resources>

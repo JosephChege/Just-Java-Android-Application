@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Ni Java, Tu!</string>
+    <string name="toppings_header">Toppings za Kahawa</string>
+    <string name="bread_crumbs">Chembechembe za Mkate</string>
+    <string name="chocolate">Chocolati</string>
+    <string name="order_summary">Summary ya Order Yako</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="whipped_cream">Maziwa Mtindi</string>
+    <string name="quantity_coffee_cups">Vikombe vya kahawa</string>
+    <string name="more_than_20_cups">Vikombe zaidi ya 20? No! Hapana!</string>
+    <string name="are_you_serious">Wacha mzaha!</string>
+    <string name="please_order">Chagua vikombe vya kahawa</string>
+    <string name="name_label">"Jina: "</string>
+    <string name="add_bread_crumbs_label_summary">"Chembechembe za Mkate? "</string>
+    <string name="agree">Ndio</string>
+    <string name="disagree">La!</string>
+    <string name="whipped_cream_summary">"Maziwa Mtindi? "</string>
+    <string name="add_chocolate_summary">"Chocolati? "</string>
+    <string name="quantity_summary">"Vikombe: "</string>
+    <string name="total_label_summary">"Jumla ya bei: KSh. "</string>
+    <string name="thank_you_summary">Ahsante!</string>
+    <string name="order_summary_subject_email">"Agizo la "</string>
+    <string name="order_coffee_text">Agiza</string>
+    <string name="name_enquiry_hint_text">Jina Lako</string>
+    <string name="summary_hint_text">(Yaonyeeshwa Ukishaa Agiza)</string>
+</resources>
